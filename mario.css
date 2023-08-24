@@ -3,7 +3,7 @@ body {
 }
 
 .pagina{
-    background-image: url('cenario.jpg');
+    background-image: url('chaosisland.jpg');
     background-repeat: no-repeat;
     background-size: 100%;
 
@@ -23,7 +23,19 @@ body {
 }
 
 .pagina h1 img{
-    width: 25%;
+    width: 70%;
     height: 400px;
     float: left;
+    color:  #50C878;
+    left: 0;
+    text-align: center;
+    top: 0;
+    position: relative;
+    overflow: auto;
 }
+
+.pagina h2 img{
+    width: 30%;
+    height: 80px;
+    float: left;
+} 
